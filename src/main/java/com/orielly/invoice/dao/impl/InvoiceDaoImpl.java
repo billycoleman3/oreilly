@@ -53,7 +53,7 @@ public class InvoiceDaoImpl implements InvoiceDao {
 	 * instead of stopping the process completely</br>
 	 * 
 	 * {@link Exception} is used to catch any Exception and log the error.
-	 * The returned {@link List} will not be never be null (as it is instantiated)
+	 * The returned {@link List} will never be null (as it is instantiated)
 	 * if an exception is encountered and can be checked in the calling service for 
 	 * the presence of values
 	 */
