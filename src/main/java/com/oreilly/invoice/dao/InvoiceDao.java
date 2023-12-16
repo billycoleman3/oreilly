@@ -1,8 +1,8 @@
-package com.orielly.invoice.dao;
+package com.oreilly.invoice.dao;
 
 import java.util.List;
 
-import com.orielly.invoice.model.Invoice;
+import com.oreilly.invoice.model.Invoice;
 
 /**
  * Provides data access methods for {@link Invoice}

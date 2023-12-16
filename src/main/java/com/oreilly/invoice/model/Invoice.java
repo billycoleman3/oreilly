@@ -1,4 +1,4 @@
-package com.orielly.invoice.model;
+package com.oreilly.invoice.model;
 
 import java.io.Serializable;
 

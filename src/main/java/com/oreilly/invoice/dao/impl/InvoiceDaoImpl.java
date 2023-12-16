@@ -1,4 +1,4 @@
-package com.orielly.invoice.dao.impl;
+package com.oreilly.invoice.dao.impl;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -13,8 +13,8 @@ import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Service;
 
-import com.orielly.invoice.dao.InvoiceDao;
-import com.orielly.invoice.model.Invoice;
+import com.oreilly.invoice.dao.InvoiceDao;
+import com.oreilly.invoice.model.Invoice;
 
 /**
  * Implementation of {@link InvoiceDao}

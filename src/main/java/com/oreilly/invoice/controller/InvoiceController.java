@@ -1,4 +1,4 @@
-package com.orielly.invoice.controller;
+package com.oreilly.invoice.controller;
 
 import java.util.Map;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.orielly.invoice.model.Invoice;
-import com.orielly.invoice.service.InvoiceService;
+import com.oreilly.invoice.model.Invoice;
+import com.oreilly.invoice.service.InvoiceService;
 
 /**
  * Controller to handle HTTP {@link Invoice} requests

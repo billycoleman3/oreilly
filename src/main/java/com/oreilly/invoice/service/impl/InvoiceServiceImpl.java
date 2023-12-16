@@ -1,4 +1,4 @@
-package com.orielly.invoice.service.impl;
+package com.oreilly.invoice.service.impl;
 
 import java.util.HashMap;
 import java.util.List;
@@ -13,9 +13,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 
-import com.orielly.invoice.dao.InvoiceDao;
-import com.orielly.invoice.model.Invoice;
-import com.orielly.invoice.service.InvoiceService;
+import com.oreilly.invoice.dao.InvoiceDao;
+import com.oreilly.invoice.model.Invoice;
+import com.oreilly.invoice.service.InvoiceService;
 
 /**
  * Implementation of {@link InvoiceService}

@@ -1,8 +1,8 @@
-package com.orielly.invoice.service;
+package com.oreilly.invoice.service;
 
 import java.util.Map;
 
-import com.orielly.invoice.model.Invoice;
+import com.oreilly.invoice.model.Invoice;
 
 /**
  * Provides services for interacting with {@link Invoice}
